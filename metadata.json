@@ -1,0 +1,6 @@
+{
+  "name": "VinaIT 5",
+  "description": "Ứng dụng ôn tập Tin học lớp 5 thông minh, sinh động, chuẩn chương trình GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
